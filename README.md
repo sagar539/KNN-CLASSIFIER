@@ -1,2 +1,2 @@
 # KNN-CLASSIFIER
-in this classification problem available at uci machine learning repositoryi use knn algorithm
+In this classification problem available at uci machine learning repository i use knn algorithm
